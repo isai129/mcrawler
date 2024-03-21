@@ -73,16 +73,7 @@
 ➡️➡️➡️ [手机号登录说明](docs/手机号登录说明.md)
 
 
-
-## star 趋势图
-- 如果该项目对你有帮助，star一下 ❤️❤️❤️
-
-[![Star History Chart](https://api.star-history.com/svg?repos=NanmiCoder/MediaCrawler&type=Date)](https://star-history.com/#NanmiCoder/MediaCrawler&Date)
-
-
-
-
-## 参考
+# 参考
 
 - xhs客户端 [ReaJason的xhs仓库](https://github.com/ReaJason/xhs)
 - 短信转发 [参考仓库](https://github.com/pppscn/SmsForwarder)
